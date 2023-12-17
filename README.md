@@ -52,7 +52,7 @@ Jennifer Manning promedio: 4,00 promedio cualitativo ?
 Juan Vasquez promedio: 8,00 promedio cualitativo ?
 ```
 
-### Ejercicios 5
+### Ejercicios 5 ( realmente es el 4)
 Analice el siguiente flujo
 ```
 estudiantes => {"Kimberly", "Hogan", "Teresa", "Luis", "Mark", "Jennifer", "Alcides"}
@@ -66,7 +66,7 @@ FinMientras
 Modifique el ciclo repetitivo para que salga del mismo, cuando el usuario ingrese por teclado una letra que coincida con alguna de las primeras letras de los nombres del arreglo **estudiantes**. Debe usar un ciclo repetitivo para recorrer el arreglo **estudiantes**.
 
 
-### Ejercicios 6
+### Ejercicios 6 ( realmente es el 5)
 El primer ciclo paralelo C, cuenta con 28 estudiantes, de los cuales al finalizar el ciclo, la Dirección de la carrera de Computación a solicitado las siguientes estadísticas en función a los promedios obtenidos del ciclo por estudiantes (use 1 arreglo, no matrices, y para el promedio por estudiante, no ingrese el valor, si se debe autogenerar). 
 
 - Promedio del ciclo, del paralelo C. 
